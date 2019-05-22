@@ -28,6 +28,8 @@ count = 0 # to print all the questions while iterating a while loop over it.
 print ('\n>>>>>>>>> ** Welcome to KBC ** <<<<<<<<<')
 
 while count < len(question_list):
+	if fifty_fifty_checker == 0:
+		print ('**You can use 5050 lifeline by giving 5050 in the user input**')
 	print ('\n')
 	ninja = 0 # it is used to iterate loop while incrementing it to print all the options for a particular question.
 	hatori = 0 # it is used to give the serial number to the two questions after 50-50 lifeline.
