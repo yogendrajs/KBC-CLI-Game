@@ -1,8 +1,8 @@
 import random
 question_list = [
-	"How many continents are there in the world?",  		# first question
-	"What is the capital of France?",						# second question
-	"Gateway of India is located in which city?",			# third question
+	"How many continents are there in the world?",  	# first question
+	"What is the capital of France?",			# second question
+	"Gateway of India is located in which city?",		# third question
 	"Which is the largest populated country in the world?" 	# fourth question
 ]
 options_list = [
