@@ -1,16 +1,14 @@
 # KBC-CLI Game
 
-In this project, I have made a simple **KBC** Game in **Java** which let you ask some of the questions, and you'll be given four options for that. You have to choose any one of them. If the answer will be right, then you'll be forwarded to the next question, else you'll lose it.
+In this project, I have made a simple **KBC** Game in **Python** which let you ask some of the questions, and you'll be given four options for that. In this game, one 50-50 lifeline is there, which you can use to skip two wrong answers out of four. You can use this lifeline only once. You have to choose the correct option else you will lost the match. Here, you'll also earn rewards as you would move forward.
 
 ## Requirements
+
 ### Installation process 
 
-Run the following commands on your terminal to install java on your linux system.
-
+If you are using Linux based OS, open your terminal and navigate to the directory where `kbc.py` file is located. Now, you can run the game by using the following command.
 ```
-sudo add-apt-repository ppa:webupd8team/java
-sudo apt update; sudo apt install oracle-java8-installer
+python3 kbc.py
 ```
+If you are using Windows, download python3 from the official website.
 
-To check the version of java after installing, that you're using, run -
-`javac --version`
