@@ -1,6 +1,6 @@
 # KBC-CLI Game
 
-In this project, I have made a simple **KBC** Game in **Java** who let you ask some of the questions, and you'll be given four options for that. You have to choose any one of them. If the answer will be right, then you'll be forwarded to the next question, else you'll lose it.
+In this project, I have made a simple **KBC** Game in **Java** which let you ask some of the questions, and you'll be given four options for that. You have to choose any one of them. If the answer will be right, then you'll be forwarded to the next question, else you'll lose it.
 
 ## Requirements
 ### Installation process 
